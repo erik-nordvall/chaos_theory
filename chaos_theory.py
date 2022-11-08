@@ -87,3 +87,6 @@ while found < n:
         pyplot.axis("off")
         pyplot.scatter(x_list[100:], y_list[100:], s=0.01, c="yellow")
         pyplot.show()
+
+
+        #Testar om det går att pusha nu
