@@ -89,4 +89,6 @@ while found < n:
         pyplot.show()
 
 
-        #Testar om det går att pusha nu
+        #Testar om det går att pusha nu också
+
+        #nu testar jag igen
